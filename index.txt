@@ -1,0 +1,4 @@
+animals
+ZZ
+man
+this is index
